@@ -206,11 +206,11 @@
         "uv2nix": "uv2nix"
       },
       "locked": {
-        "lastModified": 1746435301,
-        "narHash": "sha256-EdFiL9fxlPvgK/HlKJnqwFAXCextSJOIqBrNBtbFxLQ=",
+        "lastModified": 1746534218,
+        "narHash": "sha256-3jsMSUKBBF5aSbs9Ghv1z6oIVLYMqVOoVRC/rx2h0og=",
         "owner": "Dreamail",
         "repo": "maimai-updater",
-        "rev": "6d9cdcf3270b17e3ca0c3f07021b98b2ed2fc46b",
+        "rev": "5f1544e71ed177172cc0a949066ec78388d65f34",
         "type": "github"
       },
       "original": {
